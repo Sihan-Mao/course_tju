@@ -1,2 +1,10 @@
 .ipynb_checkpoints/
 .idea/
+.DS_Store
+project-data/topic1-mobile_sensor/.DS_Store
+project-data/topic1-mobile_sensor/beijing_20210101-20210522/*
+project-data/topic1-mobile_sensor/beijing_20210101-20210522.zip
+数据分析.ipynb
+城市犯罪/*
+环境感知/*
+agent原理/*
